@@ -1,4 +1,4 @@
-x = ["apple", "banana", "cherry"]
+x = ["appgrtgre", "banana", "cherry"]
 
 #display x:
 print(x)
