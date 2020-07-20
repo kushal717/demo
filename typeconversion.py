@@ -5,8 +5,8 @@ x = float(1)
 y = int(2.8)
 
 #convert from int to complex:
-z = complex(x)
+a = complex(x)
 
 print(x)
 print(y)
-print(z)
+print(a)
